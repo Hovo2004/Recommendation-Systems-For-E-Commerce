@@ -2,8 +2,6 @@
 
 ## Tasks Completed So Far
 
-Here is the [link to the GitHub repository](https://github.com/MonicaMell/Recommender-System-for-E-commerce).
-
 ### Dataset Acquisition
 
 We have used an Amazon dataset on user ratings for beauty products. This dataset doesn't have any headers. To avoid biases, each product and user is assigned a unique identifier instead of using their name or any other potentially biased information.
@@ -133,4 +131,4 @@ To evaluate the effectiveness of our recommendation systems:
 To clone the repository to your local machine, use the following command:
 
 ```bash
-git clone https://github.com/MonicaMell/Recommendation-Systems-For-E-Commerce
+git clone https://github.com/Hovo2004/Recommendation-Systems-For-E-Commerce
